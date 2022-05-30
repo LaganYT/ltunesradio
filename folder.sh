@@ -10,7 +10,7 @@ QUAL="medium"                                  # Preset de qualité FFMPEG
 YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"  # URL de base RTMP youtube
 
 FOLDER="videos"                                    # Dossier source
-KEY="PUT YOUR KEY THERE"                                     # Clé à récupérer sur l'event youtube
+KEY="$KEY"                                     # Clé à récupérer sur l'event youtube
 
 SOURCE=""
 n=0
