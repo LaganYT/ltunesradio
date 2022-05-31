@@ -5,7 +5,7 @@ app = Flask('')
 
 @app.route('/')
 def home():
-    return "I'm alive"
+    return "I Am Live at https://ltunes.gq/radio/ltunes"
 
 def run():
   app.run(host='0.0.0.0',port=8080)
